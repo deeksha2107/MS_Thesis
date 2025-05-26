@@ -6,7 +6,5 @@ This repository contains the complete codebase and dataset analysis for the thes
 
 ## Structure
 - `Dataset/`: Initial datasets and basic preprocessing
-- `Feature_Addition/`: Enhanced datasets with additional features and modeling
 - `Model_Development_Testing/`: ML models trained and tested on different feature extractors
-- `Attack/`: Adversarial attacks on trained models
-- `LLM_Testing/`: Evaluation against phishing emails generated using LLMs
+
